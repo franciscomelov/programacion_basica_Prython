@@ -1,2 +1,2 @@
-# programacion_basica_Prython
+# programacion_basica_Python
 Primer acercamiento a programacion y logica de programacion
