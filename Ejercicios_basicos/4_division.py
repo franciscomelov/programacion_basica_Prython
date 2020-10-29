@@ -1,15 +1,4 @@
-#Opcion 1
-a = 4
-b = 3
 
-print(a / b)
-print(a//b)
-
-#Opcion 2
-a = 4
-b = 3
-print("""{}
-{}""".format(a/b, a//b))
 
 
 """ 

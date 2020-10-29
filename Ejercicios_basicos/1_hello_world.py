@@ -1,9 +1,3 @@
-#Opcion 1
-print("Hola, Mundo!")
-
-#Opcion 2
-saludo = "Hola, Mundo"
-print(saludo)
 
 
 """ 

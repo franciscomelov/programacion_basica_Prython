@@ -1,11 +1,4 @@
-#Opcion 1
-name = input("Cual es tu nombre: ")
-print("Hola ", name)
 
-#Opcion 2
-name = input("Cual es tu nombre: ")
-saludo = "Hola "
-print(saludo,  name)
 
 
 
