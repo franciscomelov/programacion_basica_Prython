@@ -1,0 +1,11 @@
+github: 
+https://github.com/franciscomelov/programacion_basica_Python
+
+python:
+https://www.programiz.com/python-programming/online-compiler/
+
+googlemeet: 
+https://meet.google.com/fvr-gyca-edd
+
+Facebook: 
+https://www.facebook.com/Programacionfacil/
